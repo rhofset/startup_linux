@@ -17,7 +17,7 @@ sudo apt-get install ftp
 
 # Filezilla
 sudo apt-get update
-sudo apt-get install Filezilla
+sudo apt-get install filezilla
 
 # Visual Code
 curl -sSL https://packages.microsoft.com/keys/microsoft.asc | sudo apt-key add -
