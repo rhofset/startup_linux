@@ -10,4 +10,14 @@ fi
 sudo apt-get update
 
 # Upgrade
-sudo apt-get upgrade
+sudo apt-get upgrade -y
+
+# ftp
+sudo apt-get install ftp
+
+# Filezilla
+sudo apt-get update
+sudo apt-get install Filezilla
+
+# Visual Code
+sudo apt install ./https://go.microsoft.com/fwlink/?LinkID=760868
