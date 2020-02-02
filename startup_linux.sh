@@ -27,3 +27,17 @@ sudo apt install code
 
 # nfs-common
 sudo apt-get install nfs-common
+
+# impacket
+# link: https://github.com/SecureAuthCorp/impacket
+# creator: SecureAuthCorp
+
+cd /opt/
+sudo git clone https://github.com/SecureAuthCorp/impacket.git
+
+# nmapAutomator
+# from: https://github.com/21y4d/nmapAutomator
+# creator: 21y4d
+
+cd /opt/
+sudo git clone https://github.com/21y4d/nmapAutomator.git
